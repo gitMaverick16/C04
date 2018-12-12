@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.2.1">
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="174"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="181"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="187"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="193"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="204"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="211"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="217"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="223"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="234"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="241"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="247"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="253"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="264"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="271"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="277"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="283"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="294"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="301"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="307"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="313"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_carro.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="174"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="181"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="187"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="193"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="204"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="211"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="217"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="223"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="234"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="241"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="247"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="253"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="264"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="271"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="277"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="283"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView16`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView16&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="294"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="144"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="301"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="151"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView18`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView18&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="307"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="157"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView19`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView19&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="313"
+            column="17"/>
+        <location
+            file="C:\Users\sergio\AndroidStudioProjects\IHC\app\src\main\res\layout\fragmento_informe.xml"
+            line="163"
+            column="17"/>
+    </issue>
+
+</issues>
